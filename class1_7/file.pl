@@ -1,5 +1,5 @@
 #relational operators and equality >, <, >=, <=, ==, !=
-
+#for numbers
 print ("please, input v1: \n");
 chomp($v1=<STDIN>);
 
