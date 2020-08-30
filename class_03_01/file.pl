@@ -9,7 +9,7 @@ print "v4 : $v4 \n";
 print "v5 : $v5 \n";
 print "\n";
 
-#$_ is read-only to fixed value
+#$_ is read-only to fixed value (constants)
 foreach (1, 55.7, $var, "Hello", -10) {
     print "element: $_\n";
 }
